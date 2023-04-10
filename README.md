@@ -26,9 +26,8 @@
 [Back to top](#)
   
 ## Screenshot of Example
-![Image]()
+![Image](client/src/images/pwa.png)
 
-![Image]()
 
 [Back to top](#)
   
